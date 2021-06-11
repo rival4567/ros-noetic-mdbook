@@ -18,3 +18,37 @@ To get a brief overview of the GUI of gazebo, open this [link](http://gazebosim.
 
 ## Adding models to Simulator
 
+1. Let's first open a gazebo simulator environment.
+
+    ```bash
+    roslaunch gazebo_ros empty_world.launch 
+    ```
+
+    ![Gazebo](../gazebo.png)
+
+1. You can add primitive shapes like cube, sphere and sphere from upper toolbar.
+
+    ![Sphere](sphere.png)
+
+1. You can also add some other models by going to `Insert` on the left panel. Let's try adding `Ambulance` to the scene which is under `http://models.gazebosim.org/`. _It can take some time to download and load._
+
+    ![Ambulance](ambulance.png)
+
+1. You can also add some other custom models saved on you hard disk by adding path.
+
+
+## Applying force/torque to a model
+
+First, select sphere. Right-click on it and select apply force/torque. Fill in the details as shown below.
+
+<center>
+
+![Applying force](apply_force.png)
+
+</center>
+
+> **Note**: Don't forget to click on play button to start the simulation.
+
+Now click on apply force. You can see the force being applied. Notice that the force is applied for **1ms**, so the force is so high for such a small ball to increase the impulse.
+
+---

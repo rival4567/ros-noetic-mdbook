@@ -267,6 +267,6 @@
     catkin_make
     ```
 
-> **Help**: Run this command to see if you've successfully build the package. `rospack find <package-name>`. To get more help about how to create a package look into this section: [Create a ROS package](../ROS_Basics_with_Turtlesim/ROS_Package/create_a_ros_package.html#create-a-ros-package).
+> **Hint**: Run this command to see if you've successfully build the package. `rospack find <package-name>`. To get more help about how to create a package look into this section: [Create a ROS package](../ROS_Basics_with_Turtlesim/ROS_Package/create_a_ros_package.html#create-a-ros-package).
 
 ---
