@@ -49,6 +49,6 @@ First, select sphere. Right-click on it and select apply force/torque. Fill in t
 
 > **Note**: Don't forget to click on play button to start the simulation.
 
-Now click on apply force. You can see the force being applied. Notice that the force is applied for **1ms**, so the force is so high for such a small ball to increase the impulse.
+Now click on apply force. You can see the force being applied. Notice that the force is applied for **1ms**, so we've provided such high force for such a small ball to increase the impulse.
 
 ---

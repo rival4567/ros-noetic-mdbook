@@ -11,6 +11,7 @@ This page is just to quick overview of the simulation and visualization tools in
 ## Gazebo Simulator
 
 - Robot simulation is an essential tool in every roboticist's toolbox.
+
 - A robust physics engine, high-quality graphics, and convenient programmatic and graphical interfaces, makes Gazebo a top Choice for 3D Simulator.
 
 **.world** File: The file used to describe a collection of objects (such as buildings, tables, and lights), and global parameters including the sky, ambient light, and physics properties.
