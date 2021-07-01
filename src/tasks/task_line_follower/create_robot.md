@@ -4,7 +4,7 @@ The objective is to create a simple diff-drive robot with a camera plugin instal
 
 For example:
 
-![model_image](./model/png)
+![model_image](./model.png)
 
 As you can see in the above image, the robot contains 4 wheels and 1 camera at the head location.
 
