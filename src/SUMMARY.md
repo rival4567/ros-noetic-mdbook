@@ -73,3 +73,8 @@
         - [Recording Logs](./tasks/task_2/recording-logs.md)
         - [Solution](./tasks/task_2/solution.md)
         - [Autoeval script](./tasks/task_2/autoeval_script.md)
+    - [task line-follower](./tasks/task_line_follower/main.md)
+        - [Problem Statement](./tasks/task_line_follower/problem_statement.md)
+            - [Create Robot Model](./tasks/task_line_follower/create_robot.md)
+            - [Create The Script](./tasks/task_line_follower/create_script.md)
+        - [Expected Output](./tasks/task_line_follower/expected_output.md)
