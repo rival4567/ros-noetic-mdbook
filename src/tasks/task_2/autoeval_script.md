@@ -1,7 +1,6 @@
 # Autoeval script
 
-  > **Note**: Save this file in a ROS package scripts folder. Then to run this script, run in terminal rosrun <pkg-name> autoeval.py. This script generates a results.csv file showing the results.
-
+  > **Note**: Save this file in a ROS package scripts folder. Then to run this script, run in terminal rosrun <pkg-name> autoeval.py. TThis script prints the result in the terminal window.
   `autoeval.py`
 
   ```python
