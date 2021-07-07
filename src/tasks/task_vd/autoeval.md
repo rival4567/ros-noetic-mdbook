@@ -27,7 +27,6 @@ def y_to_lon(input_y):
     return 72 - (input_y)/105292.0089353767
 
 def main():
-	print("yo")
 	bag_files = []
 	is_passed = False
 	# Change this path to where all bag files are located.
@@ -37,7 +36,6 @@ def main():
 
 	# iterate through each file
 	for file in bag_files:
-		print("yo boi")
 		bag = rosbag.Bag(file)
 		# look throuhg topics
 		topics = bag.get_type_and_topic_info()[1].keys()
