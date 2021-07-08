@@ -93,6 +93,7 @@
             - [Exploring eDrone ROS-Gazebo model](./tasks/task_vd/learn_edrone_model.md)
             - [Path planning and navigation](./tasks/task_vd/path_planning.md)
         - [Problem Statement](./tasks/task_vd/problem_statement.md)
+        - [Expected Output](./tasks/task_vd/expected_output.md)
         - [Recording Logs](./tasks/task_vd/recording-logs.md)
         - [Solution](./tasks/task_vd/solution.md)
         - [Autoeval script](./tasks/task_vd/autoeval.md)
