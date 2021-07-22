@@ -72,7 +72,7 @@ roslaunch myrobot_description display.launch
 ```
   
   You should be able to see the following:
-![image](./one_shape.png)
+![image](./simple_shape.png)
 
 ## 2. Multiple Shapes
 
