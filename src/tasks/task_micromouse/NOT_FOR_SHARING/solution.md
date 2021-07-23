@@ -1,6 +1,6 @@
 # Solution
 
-Solution package can be downloaded from here. => <a href="micromouse.zip" download><button>Download</button></a>
+Solution package can be downloaded from here. =>  <a href="micromouse.zip" download><button>Download</button></a>
 
 
 ### To run the solution.
