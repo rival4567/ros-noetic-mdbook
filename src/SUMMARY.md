@@ -101,5 +101,5 @@
         - [Problem Statement](./tasks/task_ur5_multiple_arm/problem_statement.md)
         - [Expected Output](./tasks/task_ur5_multiple_arm/expected_output.md)
     - [task sahayak bot](./tasks/task_sahayak_bot/main.md)
-        - [Problem Statement](./tasks/task_sahayak_bot/problem_statement.md)
-        - [Expected Output](./tasks/task_sahayak_bot/expected_output.md)
+        - [installation](./tasks/task_sahayak_bot/installation.md)
+        - [Output](./tasks/task_sahayak_bot/output.md)
