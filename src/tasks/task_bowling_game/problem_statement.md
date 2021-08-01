@@ -54,6 +54,8 @@
     roslaunch pkg_gazebo bowling_game.launch
     ```
 
+    ![bowling-game-empty](bowling-game-empty.png)
+
 ## Procedure
 
 1. You have to use the package `pkg_gazebo` we created in the [learn section](../../ROS_with_Gazebo/installation.html).

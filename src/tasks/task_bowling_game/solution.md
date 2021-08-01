@@ -2,6 +2,12 @@
 
 - Complete solution is in this zip file => <a href="pkg_gazebo.zip" download><button>Download</button></a>
 
+- To run the solution, launch this file.
+
+    ```bash
+    roslaunch pkg_gazebo bowling_game_solution.launch
+    ```
+
 <br/>
 
 This file defines the effort controller to move the bowling ball in 3-axis.

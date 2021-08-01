@@ -8,16 +8,16 @@
 
 - Make sure to create a directory called `bag_files` within your `pkg_gazebo` package where your bag files will get stored.
 
-```xml
-<!-- Recording Bag File for Submission -->
-    <arg name="record" default="false"/>
-    <arg name="rec_name" default="bowling.bag"/>
+    ```xml
+    <!-- Recording Bag File for Submission -->
+        <arg name="record" default="false"/>
+        <arg name="rec_name" default="bowling.bag"/>
 
-    <group if="$(arg record)">
-        <node name="rosbag_record_pick" pkg="rosbag" type="record"
-       args="record -O $(find pkg_gazebo)/bag_files/$(arg rec_name) --chunksize=10 /gazebo/link_states" output="screen"/>
-    </group>
- ```
+        <group if="$(arg record)">
+            <node name="rosbag_record_pick" pkg="rosbag" type="record"
+        args="record -O $(find pkg_gazebo)/bag_files/$(arg rec_name) --chunksize=10 /gazebo/link_states" output="screen"/>
+        </group>
+    ```
 
 
 
@@ -27,14 +27,14 @@
 
 - If you want to record the bag file needed for submission you would have to run the following command.
 
-```bash
-roslaunch pkg_gazebo bowling_game_solution.launch record:=true rec_name:=bowling.bag
-```
+    ```bash
+    roslaunch pkg_gazebo bowling_game_solution.launch record:=true rec_name:=bowling.bag
+    ```
 
 - If you just want to run your implementation without recording a bag file. Do the following.
 
-```bash
-roslaunch pkg_gazebo bowling_game_solution.launch
-```
+    ```bash
+    roslaunch pkg_gazebo bowling_game_solution.launch
+    ```
 
 ---
