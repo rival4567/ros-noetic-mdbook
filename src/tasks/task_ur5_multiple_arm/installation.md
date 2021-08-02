@@ -1,4 +1,4 @@
-# Installation
+# Installation Guide
 
 - Download Vargi Bots Simulation Packages
 
@@ -19,6 +19,6 @@
 
         ![task-multiple-ur5](./task-multiple-ur5.png)
 
-    > **Note**: NOTE: Do not edit any files in these packages. If there is any bug in the packages we will notify you.
+    > **Note**: Do not edit any files in these packages. If there is any bug in the packages we will notify you.
 
     ---

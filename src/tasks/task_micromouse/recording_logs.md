@@ -1,6 +1,6 @@
 # Recording Logs
 
-- For recording the bags in this Task, you can refer to this [section](../task0/recording-logs.md).
+- For recording the bags in this Task, you can refer to this [section](../task0/recording-logs.html).
 
 - This launch file will specifically make use of `/micromouse/odom` and `/micromouse/laser/scan` ROS topics so make sure to specify these as shown below.
 
